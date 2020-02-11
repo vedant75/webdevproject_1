@@ -1,0 +1,90 @@
+body{
+	margin: 80px;
+	background-color: hsl(0, 0%, 98%);
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+
+h1{
+	text-align: center;
+	margin: auto;
+	color: hsl(234, 12%, 34%);
+}
+
+.head1{
+	text-align: center;
+	font-weight: 200;
+	margin-bottom: 0px;	
+}
+
+.head2{
+	font-weight: 600;
+}
+
+.para{
+	text-align: center;
+	color: hsl(229, 6%, 66%);
+}
+
+.container{
+	height:250px;
+	width: 350px;
+	position: relative;
+	box-shadow: 3px 3px 8px 6px #ccc;
+	border-radius: 10px;
+}
+
+h3{
+	padding: 20px;
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+}
+
+.container-para{
+	padding-top: 0px;
+	padding-right: 40px;
+	padding-left: 20px;
+	margin: 0px;
+}
+
+#box{
+	box-sizing: border-box;
+	margin: 40px;
+	position: absolute;
+	top: 46%;
+	left: 19%;
+	border-top:4px solid hsl(180, 62%, 55%);
+}
+
+#box1{
+	box-sizing: border-box;
+	margin: 40px;
+	position: absolute;
+	top: 30%;
+	left: 39%;
+	border-top:4px solid hsl(0, 78%, 62%);
+}
+
+#box2{
+	box-sizing: border-box;
+	margin: 40px;
+	position: absolute;
+	top: 60%;
+	left: 39%;
+	border-top:4px solid hsl(34, 97%, 64%);
+}
+
+#box3{
+	box-sizing: border-box;
+	margin: 40px;
+	position: absolute;
+	top: 46%;
+	left: 59%;
+	border-top:4px solid hsl(212, 86%, 64%);
+}
+
+.icon{
+	position: absolute;
+	top: 60%;
+	left: 68%;
+}
